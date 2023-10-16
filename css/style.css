@@ -1,0 +1,252 @@
+
+body {
+  margin: 0px;
+  padding: 0px;
+  width: 1400px;
+  height: 5000px;
+  background-image: url(./designecologist-r-Ej0NQmFlQ-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: rgb(236, 236, 235);
+  background-color: #fffffc;
+}
+.menu {
+  display: flex;
+  width: 1402px;
+  height: 80px;
+  margin-top: 20px;
+  background: linear-gradient(to button, #642c70ea, #77677aea);
+  background-image: linear-gradient(#23013a, #8d688b0e);
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 7px;
+;
+}
+.vi{ margin-top: 10px;
+  width: 1402px;
+text-align: center;
+background-color: #9510fa;
+}
+.vidi{border: 1px solid black;
+margin-top: 40px;
+background-color: #000508;}
+.marca,
+img {
+  width: 205px;
+  height: 120px;
+  margin-left: 50px;
+  margin-top: -22px;
+}
+
+.lista {
+  display: flex;
+  gap: 9rem;
+  margin-left: 7rem;
+  align-self: flex-end;
+}
+ul,
+a { font-size: 1rem;
+  text-transform: uppercase;
+  list-style: none;
+  text-decoration: none;
+  color: #ffffff;
+}
+.busca {
+  width: 350px;
+}
+#novaCor a {
+  color: black;
+  font-size: 0.9rem;
+}
+.texto {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 50px;
+  margin-top: 140px;
+}
+.texto h1 {
+  font-size: 2.3rem;
+  margin: 80px -100px 50px 80px;
+  color: #000000;
+  font-family: 'Cookie', cursive;
+}
+.campo_busca {
+  margin-top: 40px;
+  margin-left: 20px;
+  border: 1px radius solid;
+}
+#busca {
+  width: 90%;
+  height: 20px;
+  display: inline;
+  border-radius: 100px;
+}
+.busca img {
+  width: 25px;
+  height: 25px;
+  display: flex;
+  margin-left: 325px;
+}
+.texto button {
+  background-color: #cd03fa;
+  width: 200px;
+  height: 35px;
+  margin-top: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-transform: none;
+  margin-left: 200px;
+}
+
+.texto2 {
+  width: 700px;
+  height: 650px;
+  margin-left: 240px;
+  margin-top: 70px;
+  margin-right: 10px;
+  margin-bottom: -50px;
+  background-image: linear-gradient(to bottom, #f99480, #ffffff);
+  background-image: linear-gradient(#f99480, #ffffff);
+  border-radius: 10px;
+
+}
+.oi {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+.oi,
+img {
+  width: 120px;
+  height: 250px;
+}
+.oi,
+.conteudo {
+  font-size: 1rem;
+  padding: 30px 30px 20px -5px;
+  margin: 50px 11px 250px 20px;
+}
+.detalhe ,img{ 
+  width: 120px;
+height: 100px;
+margin-right: 2px;
+} 
+
+.conteudo , p{
+font-size: 1.6rem;
+margin-top: 100px;
+}
+
+.texto2 h2 {
+    font-size: 2.8rem;
+  margin-bottom: -80px;
+  text-align: center;
+  color: #535252;
+}
+.texto2 .base {
+  width: 430px;
+  height: 420px;
+  margin-left: 15px;
+  padding-top: 100px;
+}
+.fase {
+  width: 1404px;
+  height: 250px;
+  margin-top: -45px;
+  background-color: #474747;
+
+}
+.frase,
+h3 {
+  color: #fcb21e;
+  font-size: 3rem;
+  text-transform: uppercase ;
+  text-align: center;
+  padding-top: 150px;
+  font-family: 'Cookie', cursive;
+font-family: 'Tapestry', serif;
+
+}
+.ser:hover{ color:#ffc8004b}
+
+.parte {
+  width: 1200px;
+  display: grid;
+  grid-template-columns: repeat(4, 270px);
+  gap: 10px;
+  margin-top: 15px;
+  margin-left: 100px;
+  padding: 20px;
+  justify-content: center;
+  text-align: center;
+  border: groove;
+  border-bottom-right-radius: 100px;
+  background-image: linear-gradient(to bottom, #f99480, #ffffff);
+  background-image: linear-gradient(#0097fcf5, #000508);
+
+
+}
+
+.um:hover{background-color: #96f2f8;border: 2px solid rgba(250, 137, 137, 0.527);}
+.dois:hover{background-color: #96f2f8;border: 2px solid rgba(250, 137, 137, 0.527);}
+.tres:hover{background-color: #96f2f8;border: 2px solid rgba(250, 137, 137, 0.527);}
+.quatro:hover{background-color: #96f2f8;border: 2px solid rgba(250, 137, 137, 0.527);}
+
+.um,
+.dois,
+.tres,
+.quatro {
+  height: 300px;
+  border: groove;
+  width: 100%;
+  border-bottom-right-radius: 100px;
+  border: 2.5px solid rgba(250, 137, 137, 0.527);
+  background-color: #edf1f1;
+  color: #052b44f5;
+  padding:10px 30px 10px 5px;
+  margin-left: -20px;
+  
+}
+.um,
+.dois,
+.tres,
+.quatro ,ul ,li { list-style: none;
+
+}
+
+ footer .rodape{ 
+  width: 1402px;
+  height: 250px;
+  display: grid;
+grid-template-columns: 600px 1px 50px 50px 50px ;
+gap: 1px;
+background-color: #000508;
+margin-top: 25px;}
+
+.rodape h1 {display: block;
+  width: 300px;
+  height: 40px;
+  color:#ffffff;
+  padding-left: 35px;
+}
+.informacao p { display:block;
+  color:#fffdfd;
+font-size: 1.3rem;
+margin-top: -25px;
+padding:30px 150px 30px 40px;
+width: 500px;
+
+}
+.rodape img{ width: 30px;
+  height: 30px;
+  margin-top: 90px;
+  margin-left: 550px; }
+  .posi{background-color: aqua;
+    position: relative;
+    width: 1px;
+    height:100px;
+    margin-top: 60px;
+    margin-left: 500px;   
+    }
+  
