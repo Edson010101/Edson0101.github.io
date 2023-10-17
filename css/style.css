@@ -157,18 +157,19 @@ margin-top: 100px;
   background-color: #474747;
 
 }
-.frase,
+.fass,
 h3 {
   color: #fcb21e;
   font-size: 3rem;
   text-transform: uppercase ;
   text-align: center;
-  padding-top: 150px;
+  padding-top: 100px;
   font-family: 'Cookie', cursive;
 font-family: 'Tapestry', serif;
 
+
 }
-.ser:hover{ color:#ffc8004b}
+h3:hover{ color:#ffc8004b}
 
 .parte {
   width: 1200px;
@@ -187,7 +188,7 @@ font-family: 'Tapestry', serif;
 
 
 }
-
+.del:hover{border: 2px solid rgba(0, 0, 0,0.0001);}
 .um:hover{background-color: #96f2f8;border: 2px solid rgba(250, 137, 137, 0.527);}
 .dois:hover{background-color: #96f2f8;border: 2px solid rgba(250, 137, 137, 0.527);}
 .tres:hover{background-color: #96f2f8;border: 2px solid rgba(250, 137, 137, 0.527);}
